@@ -48,7 +48,7 @@ export default {
     meta: [
       { title: "OS", value: "Arch Linux" },
       { title: "Memory", value: "32 GB 2667 MHz DDR4" },
-      { title: "Keyboard", value: "Ducky One 2 Mecha Mini" },
+      { title: "Keyboard", value: "Ducky One 2 Mecha Mini - Cherry MX Red" },
       { title: "Mouse", value: "Logitech G102" },
       {
         title: "Monitors",
