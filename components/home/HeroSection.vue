@@ -1,5 +1,5 @@
 <template>
-  <div class="relative bg-gray-800 overflow-hidden">
+  <div class="relative bg-real-black overflow-hidden">
     <div class="relative">
       <main class="">
         <div class="mx-auto py-8 max-w-7xl border-l border-r border-dashed border-gray-700">

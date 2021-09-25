@@ -51,7 +51,7 @@
     <div
       v-show="mobileMenuOpen"
       class=" absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
-      <div class="rounded-lg bg-gray-800">
+      <div class="rounded-lg bg-real-black">
         <div class="bg-gray-900 rounded-lg overflow-hidden" role="menu" aria-orientation="vertical" aria-labelledby="main-menu">
           <div class="px-5 pt-4 flex items-center justify-between">
             <div @click="mobileMenuOpen = false">

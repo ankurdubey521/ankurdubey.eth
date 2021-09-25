@@ -9,6 +9,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        'real-black': '#000000',
         'black': '#12151E',
         'hot-pink': '#fd2d78',
         'gray-900': '#18191a',
